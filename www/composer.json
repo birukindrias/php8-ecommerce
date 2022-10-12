@@ -1,0 +1,12 @@
+{
+    "name": "birukweb/ooo",
+    "description": "main",
+    "authors": [
+        {
+            "name": "biruk"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^1.2"
+    }
+}
